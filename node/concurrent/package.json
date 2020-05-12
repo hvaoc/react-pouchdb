@@ -1,0 +1,6 @@
+{
+  "name": "@react-pouchdb/node/concurrent",
+  "version": "2.0.0",
+  "main": "../cjs/concurrent",
+  "module": "../es/concurrent"
+}
